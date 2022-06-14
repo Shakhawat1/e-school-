@@ -1,0 +1,283 @@
+    /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /*header start*/
+.header{
+    padding: 0 0;
+   }
+   .logo {
+    width: 170px;
+}
+  .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px !important;
+ 
+  }
+    /*banner start*/
+  .banner {
+   
+    padding: 10px 0 60px;
+}
+.b-img {
+    padding: 0;
+}
+.b-text {
+    margin-top: 20px;
+    text-align: center;
+}
+.b-h1 {
+    margin: 10px 0 10px;
+    font-size: 25px;
+    line-height: 35px;
+    padding-right: 0;
+}
+.b-paragrp{
+  line-height: 24px;
+  padding: 0 0px;
+}
+/*feature start*/
+.feature {
+    padding-bottom: 60px;
+}
+/*testomonial start*/
+.testimonial{
+    padding-bottom: 60px;
+}
+/*service start*/
+.service{
+    padding-bottom: 60px;
+}
+.man {
+    margin: 2px auto;
+    width: 90px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    
+}
+
+.paragrph p {
+    margin-top: 0;
+    line-height: 25px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+/*service start*/
+.man {
+    padding-left: 20px;
+}
+
+.paragrph p {
+    line-height: 20px;
+    padding-left: 0;
+    
+}
+/*footer start*/
+
+.footer_1 p {
+  padding-top: 30px;
+    font-size: 16px;
+    line-height: 25px;
+    
+}
+.footer_2 {
+    padding-top: 30px;
+    line-height: 25px;
+    text-align: center;
+}
+footer {
+    padding-bottom: 70px;
+    
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+   .header{
+    padding: 0 0;
+   } 
+  .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px !important;
+ 
+  }
+  /*banner start*/
+  .banner {
+   
+    padding: 10px 0 60px;
+}
+.b-img {
+    padding: 0 100px;
+}
+.b-text {
+    margin-top: 30px;
+    text-align: center;
+}
+.b-h1 {
+    margin: 10px 0 10px;
+    font-size: 25px;
+    line-height: 35px;
+    padding-right: 0;
+}
+.b-paragrp{
+  line-height: 24px;
+  padding: 0 50px;
+}
+/*feature start*/
+.feature {
+    padding-bottom: 60px;
+}
+/*feature end*/
+/*course start*/
+.courses {
+    padding-bottom: 60px;
+    }
+.c-item {
+    margin-top: 40px;
+    padding: 25px 100px 30px;
+ }
+ .c-item h2 {
+    margin: 15px 0 0;
+  }
+  .c-item a {
+    margin: 15px 0 25px;
+    padding: 8px 20px;
+}
+/*testomonial start*/
+.testimonial{
+    padding-bottom: 60px;
+}
+/*service start*/
+.service{
+    padding-bottom: 60px;
+}
+.man {
+
+    padding-left: 40px;
+}
+
+.paragrph p {
+   
+    line-height: 25px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+/*footer start*/
+.footer_1 p {
+    font-size: 16px;
+    line-height: 25px;
+   
+}
+.footer_2 {
+     padding-top: 35px;
+    line-height: 25px;
+    font-size: 14px;
+}
+footer {
+    padding-bottom: 70px;
+    
+}
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  
+   /*header start*/
+  .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px !important;
+ 
+  }
+  /*banner start*/
+  .banner {
+   
+    padding: 10px 0 60px;
+}
+.b-img {
+    padding: 0 100px;
+}
+.b-text {
+    margin-top: 30px;
+    text-align: center;
+}
+.b-h1 {
+    
+    font-size: 30px;
+    line-height: 35px;
+    padding-right: 0;
+}
+.b-paragrp{
+  line-height: 24px;
+  padding: 0 50px;
+}
+/*feature start*/
+
+
+/*feature end*/
+/*course start*/
+.feature{
+  padding-bottom: 80px;
+}
+.c-item {
+    margin-top: 40px;
+    padding: 25px 180px 30px;
+ }
+ 
+/*sercice start*/
+.man {
+    padding-left: 80px;
+}
+.paragrph p {
+    
+    
+  
+}
+/*footer start*/
+.footer_1 p {
+       font-size: 16px;
+    line-height: 25px;
+    
+
+}
+footer_2 {
+    
+    line-height: 25px;
+    font-size: 14px;
+}
+footer {
+    padding-bottom: 80px;
+    }
+}
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   /*banner start*/
+   .b-h1 {
+    font-size: 40px;
+    padding-right: 40px;
+ }
+
+ .man {
+    padding-left: 150px;
+}
+
+ 
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   
+   /*banner start*/
+.b-h1 {
+    
+    padding-right: 70px;
+}
+/*service start*/
+.man {
+    padding-left: 200px;
+}
+
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+ }
